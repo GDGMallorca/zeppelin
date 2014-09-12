@@ -49,7 +49,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "GDG DevFest<typeout>2014"
-eventDate: "25 Octubre 2014"
+eventDate: "24 Octubre 2014"
 typeoutTextValues: '"Mallorca","Android","Wear"'
 typeoutFallback: "Mallorca"
 heroButtons:
@@ -78,20 +78,20 @@ latestNewsTitle: "Últimas noticias"
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 4
 rockstarSpeakersTitle: "Rockstar speakers"
-rockstarSpeakersButtonText: "See all speakers"
+rockstarSpeakersButtonText: "Ver todos los speakers"
 
 # Location Block
 locationBlockTitle: "Location"
 eventLocationName: "Sa Possesio"
-eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
-eventStreetAddress: "22 Teatral'na St"
-eventAddressLocality: "Mallorca"
+eventLocationLink: "http://www.sapossessio.com"
+eventStreetAddress: "Gremi Velluters 14"
+eventAddressLocality: "Pol. Son Rossinyol"
 eventAddressLocalityRegion: "Mallorca"
 eventPostalCode: "07003"
 eventAddressCountry: "Spain"
-eventStartTime: "2014-10-25T10:00"
-eventDoorTime: "09:00"
-eventEndTime: "2014-10-25T20:00"
+eventStartTime: "2014-10-24T16:00"
+eventDoorTime: "17:00"
+eventEndTime: "2014-10-24T23:00"
 eventPlaceCoordinates: "39.340000, 2.385900"
 mapCenterCoordinates: "39.340000, 2.385900"
 mapMobileCenterCoordinates: "39.340000, 2.385900"
@@ -102,25 +102,25 @@ venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "Kinopalace Cinema"
-venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+venueTitle: "Sa Possessio"
+venueFeatures: ["Múltiples salas temáticas", "Patio exterior con el mejor clima", "Fácil aparcamiento y trasporte público"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
-tweetsFeedTitle: "What's Up?"
+tweetsFeedTitle: "¿Qué está pasando?"
 twitterHashTag: "devfest"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=900"
 
 # Partners Block
-organizersTitle: "Organizers"
-partnersTitle: "Partners"
-partnersC4sponsorsButton: "Become a sponsor"
+organizersTitle: "Organizadores"
+partnersTitle: "Colaboradores"
+partnersC4sponsorsButton: "Conviértete en patrocinador"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
-subscribeTitle: "Subscribe for updates"
+subscribeTitle: "Subscríbete para no perderte nada"
 subscribeAction: "http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
-subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
+subscribeInfo: "Las entradas estarán disponibles a principio de octubre y son limitadas, no te lo pierdas!"
 
 # Tickets Block
 ticketsTitle: "Pricetable"
@@ -172,16 +172,16 @@ footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
+   - {link: "https://developers.google.com/groups/chapter/101769406777537927870/", text: "GDG Mallorca"}
    - {link: "https://developers.google.com", text: "Google Developers"}
  -
   title: "Contacts"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+   - {link: "mailto:mallorcagdg@gmail.com", text: "mallorcagdg@gmail.com"}
  -
   title: "FAQ"
   links:
-   - {permalink: "/cod/", text: "Code of Conduct"}
+   - {permalink: "/cod/", text: "Código de Conducta"}
 
 # Blog
 blogTitle: "Ultimas noticias"
