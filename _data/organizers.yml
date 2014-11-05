@@ -1,10 +1,9 @@
 - 
-  group: "Main organizer"
+  group: "Organizadores"
   elements: 
-    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
+    - {name: "GDG Mallorca", description: "Google Developers Group Mallorca", link: "http://www.gdgmallorca.com", imageUrl: "gdgmallorca.png"}
 - 
-  group: "Co-organizers"
+  group: "Colaboradores"
   elements: 
-    - {name: "GDG Lviv", description: "GDG Kyiv - Open and volunteer geek community", link: "http://kyiv.gdg.org.ua", imageUrl: "gdg-kyiv.svg"}
-    - {name: "GDG Cherkassy", description: "GDG Cherkassy - Open and volunteer geek community", link: "http://cherkassy.gdg.org.ua", imageUrl: "gdg-cherkasy.svg"}
-    - {name: "GDG Dnipropetrovsk", description: "GDG Dnipropetrovsk - Open and volunteer geek community", link: "http://dnipro.gdg.org.ua", imageUrl: "gdg-dnipropetrovsk.svg"}
+    - {name: "Betabeers", description: "Betabeers", link: "https://betabeers.com/", imageUrl: "betabeers.png"}
+    - {name: "MallorcaJS", description: "MallorcaJS", link: "http://www.meetup.com/MallorcaJS/", imageUrl: "mallorcajs.jpg"}
