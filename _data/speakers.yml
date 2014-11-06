@@ -2,10 +2,12 @@
   id: 3
   name: "Kevin"
   surname: "O'Hagan"
-  company: "MeteorJS"
+  company: "MallorcaJS"
   title: "Web Developer"
   bio: "Kevin es un desarrollador web experto en MeteorJS"
   thumbnailUrl: kevin.jpg
+  ribbon: 
+    - {abbr: "JS", title: "JS Expert"}
   rockstar: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/u/0/+kevinohagandev/posts"}
@@ -19,6 +21,8 @@
   bio: "Cofounder and Android Expert at Karumi"
   thumbnailUrl: jorge.jpg
   rockstar: true
+  ribbon: 
+    - {abbr: "Android", title: "Android Expert", url: "#"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/101577582921075469776/posts"}
 - 
@@ -27,12 +31,11 @@
   surname: "Dorado"
   company: "Betabeers"
   title: "Freelance / emprendedor"
-  bio: "Estudió MBA en Marketing e Ingeniería Informatico. Actualmente trabaja en <a href='http://farmerswife.com'>farmerswife</a> y <a href='http://economyofemotion..com'>economyofemotion.</a>"
+  bio: "Estudió MBA en Marketing e Ingeniería Informatico. Actualmente trabaja en <a href='http://farmerswife.com'>farmerswife</a> y <a href='http://economyofemotion.com'>economyofemotion</a>."
   thumbnailUrl: rafa.png
   rockstar: true
-#  ribbon: 
-#    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-#    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
+  ribbon: 
+    - {abbr: "HTML5", title: "HTML5 Expert", url: "#"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+RafaDorado/posts"}
     - {name: "twitter", link: "https://twitter.com/MrFlopis"}
@@ -45,8 +48,21 @@
   bio: "Director y Desarrollador Web en la empresa de formación Animartec"
   thumbnailUrl: gustavo.jpg
   rockstar: true
-#  ribbon:
-#    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
+  ribbon:
+    - {abbr: "SEO", title: "SEO Expert", url: "#"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/u/0/+GustavoBar%C3%B3n/posts"}
-#    - {name: "twitter", link: "http://twitter.com/roman_mazur"}
+- 
+  id: 7
+  name: "Rubén"
+  surname: "Serrano"
+  company: "Redbooth"
+  title: "Lead Android Developer"
+  bio: "Lead Android Developer en Redbooth"
+  thumbnailUrl: ruben.jpg
+  rockstar: true
+  ribbon: 
+    - {abbr: "Android", title: "Android Expert", url: "#"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+Rub%C3%A9nSerrano/posts"}
+    - {name: "twitter", link: "http://twitter.com/Akelael"}

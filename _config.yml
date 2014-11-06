@@ -31,7 +31,8 @@ socialImageSrcFacebook: "/img/seo/organizer-logo.png"
 
 # Documents
 c4pUrl: "http://goo.gl/forms/Xt53lzDs5x"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+#c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+c4sponsorsUrl: "mailto:mallorcagdg@gmail.com"
 
 
 # Navigation
@@ -50,7 +51,7 @@ rightNavigationButtons:
 heroImage: "hero.jpg"
 heroTitle: "GDG DevFest<typeout>2014"
 eventDate: "24 Octubre 2014"
-typeoutTextValues: '"Mallorca","Android","Polymer","Web","SEO"'
+typeoutTextValues: '"Mallorca","Android","Polymer","Html5","SEO"'
 typeoutFallback: "Mallorca"
 heroButtons:
  - {link: "http://goo.gl/forms/Xt53lzDs5x", text: "¿Queres dar una charla?"}
@@ -68,7 +69,7 @@ statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "50", specialCharacter: "+", info: "desarrolladores ", detail: "de toda la isla"}
  - {count: "13", specialCharacter: "", info: "horas", detail: "de Google technologies"}
- - {count: "6", specialCharacter: "+", info: "speakers", detail: " de primera linea en Android y Web"}
+ - {count: "5", specialCharacter: "+", info: "speakers", detail: " de primera linea en Android y Web"}
  - {count: "1", specialCharacter: "", info: "hackaton", detail: "demuestra tu conocimiento"}
 
 # Latest News Block
@@ -97,7 +98,7 @@ mapCenterCoordinates: "39.637413, 2.633607"
 mapMobileCenterCoordinates: "39.637413, 2.633607"
 
 # Venue Block
-venueBlockTitle: "Venue"
+venueBlockTitle: "Lugar"
 venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
@@ -113,7 +114,7 @@ twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_int
 
 # Partners Block
 organizersTitle: "Organizadores"
-partnersTitle: "Colaboradores"
+partnersTitle: "Patrocinadores"
 partnersC4sponsorsButton: "Conviértete en patrocinador"
 
 # Subscribe Block
@@ -144,7 +145,7 @@ ticketsOffers:
   priceCurrency: ""
   ticketsNumber: "20"
   ribbon: "Gratis!"
-  buyButtonLink: "http://eepurl.com/7Fra9"
+  buyButtonLink: "http://eepurl.com/7Nk7T"
   buyButtonText: "Pídela ya"
   ticketContentList: ["Un Google Cardboard para cada participante", "Un Remotte para el ganador"]
   validFrom: "2014-10-01T00:00"
@@ -175,7 +176,7 @@ footerBlocks:
 # Blog
 blogTitle: "Ultimas noticias"
 blogCommentsEnabled: true
-discusShortName: "devfestua"
+discusShortName: "gdgdevfestmallorca2014"
 
 # Speakers List Block
 showSessions: true
@@ -196,37 +197,37 @@ logisticsMapCenterCoordinates: "39.637413, 2.633607"
 logisticsMapMobileCenterCoordinates: "39.637413, 2.633607"
 
 # Logistics Direction Details Block
-directionDetailsImage: "direction-details.jpg"
-directionDetailsTitle: "Llega al Parc Bit"
-directionDetailsCards:
- - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
- - {title: "Public Transit", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}
- - {title: "Hotels", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
-directionDetailsWideCards: 
- -
-  title: "Questions?"
-  subCards:
-   -
-    title: "Hotels"
-    links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
-   - 
-    title: "Registration"
-    links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
-   -
-    title: "Attendance Details"
-    links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+#directionDetailsImage: "direction-details.jpg"
+#directionDetailsTitle: "Llega al Parc Bit"
+#directionDetailsCards:
+# - {title: "From the Airport", information: ''}
+# - {title: "Public Transit", information: ''}
+# - {title: "Hotels", information: ''}
+#directionDetailsWideCards: 
+# -
+#  title: "Questions? <a href='https://twitter.com/GDGMallorca'>@GDGMallorca</a>"
+#  subCards:
+#   -
+#    title: "Hotels"
+#    links:
+#     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
+#     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
+#     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
+#     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+#   - 
+#    title: "Registration"
+#    links:
+#     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
+#     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
+#     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
+#     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+#   -
+#    title: "Attendance Details"
+#    links:
+#     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
+#     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
+#     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
+#     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
 
 # Hackathon
 hackathonTitle: "Hackathon"

@@ -7,3 +7,6 @@
   elements: 
     - {name: "Betabeers", description: "Betabeers", link: "https://betabeers.com/", imageUrl: "betabeers.png"}
     - {name: "MallorcaJS", description: "MallorcaJS", link: "http://www.meetup.com/MallorcaJS/", imageUrl: "mallorcajs.jpg"}
+    - {name: "Animartec", description: "Animartec", link: "https://www.animartec.com/", imageUrl: "animartec.png"}
+    - {name: "Karumi", description: "Karumi", link: "http://karumi.com/", imageUrl: "karumi.png"}
+    - {name: "Redbooth", description: "Redbooth", link: "https://redbooth.com/", imageUrl: "redbooth.png"}

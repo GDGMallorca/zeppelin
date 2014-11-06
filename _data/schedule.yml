@@ -35,10 +35,30 @@
   date: "2014-12-13"
   dateReadable: "13 de Diciembre"
   tracks: 
-    - {title: "Hackaton", color: "#90be4e"}
+    - {title: "Hackaton", color: "#03a9f4"}
   timeslots: 
     - {
-    	startTime: "10:00",
-    	endTime: "18:00",
-    	sessionIds: [006]
+        startTime: "10:00",
+        endTime: "11:00",
+        sessionIds: [006]
+    }
+    - {
+        startTime: "11:00",
+        endTime: "14:00",
+        sessionIds: [007]
+    }
+    - {
+        startTime: "14:00",
+        endTime: "15:00",
+        sessionIds: [308]
+    }
+    - {
+        startTime: "15:00",
+        endTime: "18:00",
+        sessionIds: [008]
+    }
+    - {
+        startTime: "18:00",
+        endTime: "19:00",
+        sessionIds: [009]
     }

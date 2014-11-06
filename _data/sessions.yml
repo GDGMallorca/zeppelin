@@ -4,13 +4,18 @@
   place: "Patio interior"
   service: true
 -
+  id: 308
+  title: "Pausa para Comer"
+  place: "Salida libre"
+  service: true
+-
   id: 001
   title: "Material design basics"
   description: "Introducción a Material Design"
   subtype: presentation
   speakers: [4]
   language: es
-  complexity: "Beginner"
+  complexity: "Principiante"
 -
   id: 002
   title: "SEO para Portales web"
@@ -18,7 +23,7 @@
   subtype: presentation
   speakers: [6]
   language: es
-  complexity: "Intermediate"
+  complexity: "Intermedio"
 -
   id: 003
   title: "Web Components y Polymer revolucionan el desarrollo Web"
@@ -26,15 +31,15 @@
   subtype: presentation
   speakers: [3,5]
   language: es
-  complexity: "Intermediate"
+  complexity: "Intermedio"
 -
   id: 004
-  title: "Pendiente de ponente"
-  description: "Charla pendiente de ponente, deseas serlo tu?"
+  title: "Android a través del tiempo"
+  description: "Una mirada a los entresijos de Android a través de todas sus versiones"
   subtype: presentation
-  speakers: [6]
+  speakers: [7]
   language: es
-  complexity: "Beginner"
+  complexity: "Intermedio"
 #-
 #  id: 005
 #  title: "Keynote"
@@ -46,9 +51,33 @@
 
 -
   id: 006
-  title: "Hackaton"
-  description: "Hackaton de Google Cardboard"
+  title: "Checkin y explicación de las normas"
+  description: "Checkin y explicación de las normas"
   subtype: hackathon
-  speakers: [6]
+  speakers: []
   language: es
-  complexity: "Intermediate"
+  complexity: "Intermedio"
+-
+  id: 007
+  title: "Empieza la hackaton"
+  description: "Empieza el desarrollo de los proyectos"
+  subtype: hackathon
+  speakers: []
+  language: es
+  complexity: "Intermedio"
+-
+  id: 008
+  title: "Continua la hackaton"
+  description: "Continua el desarrollo de los proyectos"
+  subtype: hackathon
+  speakers: []
+  language: es
+  complexity: "Intermedio"
+-
+  id: 009
+  title: "Presentación de proyectos y premios"
+  description: "Presentación de todos los proyectos de los distintos grupos y elección del ganador"
+  subtype: hackathon
+  speakers: []
+  language: es
+  complexity: "Intermedio"  
