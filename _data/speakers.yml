@@ -17,14 +17,15 @@
   name: "Jorge"
   surname: "Barroso"
   company: "Karumi"
-  title: "Android Developer"
-  bio: "Cofounder and Android Expert at Karumi"
+  title: "Android Expert"
+  bio: "Jorge Barroso es Android expert en Karumi, Trabajó en Tuenti entre 2009 a 2013 siendo en su última etapa tech lead del equipo de android core. Antes de Tuenti trabajó en varias empresas desarrollando juegos para dispositivos móviles y juegos multiplayer."
   thumbnailUrl: jorge.jpg
   rockstar: true
   ribbon: 
     - {abbr: "Android", title: "Android Expert", url: "#"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/101577582921075469776/posts"}
+    - {name: "twitter", link: "https://twitter.com/flipper83"}
 - 
   id: 5
   name: "Rafa"
