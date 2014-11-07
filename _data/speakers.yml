@@ -43,15 +43,16 @@
   id: 6
   name: "Gustavo"
   surname: "Barón"
-  company: "Animartec"
-  title: "Director y Desarrollador Web"
-  bio: "Director y Desarrollador Web en la empresa de formación Animartec"
+  company: "Academia Animartec"
+  title: "Director y Presidente"
+  bio: "Director de la Academia Animartec, Gustavo Barón se ha especializado hace más de 14 años en el desarrollo de proyectos online (psicometría del usuario, marketing y socialmedia, estrategias de negocios en internet y posicionamiento SEO). Dicta cursos, talleres, seminarios y ha impartido numerosas conferencias a todo tipo de auditorios. Ha participado como columnista en programas de TV sobre temas de internet y brindado asesoramiento a importantes empresas turísticas en Mallorca. También asesora y dicta cursos para Administración de Justicia sobre firma electrónica, e-administración y encriptación de documentos.<br/>En la actualidad sus proyectos se centran en:<br/><ul><li>Promover activamente proyectos de clientes desarrollando plataformas y algoritmos inteligentes que optimicen su tiempo y rentabilicen su trabajo.</li><li>Optimizar la educación de futuros profesionales que quieran formarse para emprender proyectos online.</li><li>Filtrar y reclutar personal para empresas seleccionando profesionales con conocimientos certificados y actitud laboral cualificada.</li></ul>"
   thumbnailUrl: gustavo.jpg
   rockstar: true
   ribbon:
     - {abbr: "SEO", title: "SEO Expert", url: "#"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/u/0/+GustavoBar%C3%B3n/posts"}
+    - {name: "google-plus", link: "https://plus.google.com/+AnimartecMallorca"}
+    - {name: "twitter", link: "https://twitter.com/animartec"}
 - 
   id: 7
   name: "Rubén"
