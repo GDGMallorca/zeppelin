@@ -59,7 +59,7 @@
   complexity: "Intermedio"
 -
   id: 007
-  title: "Empieza la hackaton"
+  title: "Empieza la hackathon"
   description: "Empieza el desarrollo de los proyectos"
   subtype: hackathon
   speakers: []
@@ -67,8 +67,8 @@
   complexity: "Intermedio"
 -
   id: 008
-  title: "Continua la hackaton"
-  description: "Continua el desarrollo de los proyectos"
+  title: "Continúa la hackathon"
+  description: "Continúa el desarrollo de los proyectos"
   subtype: hackathon
   speakers: []
   language: es

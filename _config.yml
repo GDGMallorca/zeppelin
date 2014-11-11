@@ -70,7 +70,7 @@ statisticBlock:
  - {count: "50", specialCharacter: "+", info: "desarrolladores ", detail: "de toda la isla"}
  - {count: "13", specialCharacter: "", info: "horas", detail: "de Google technologies"}
  - {count: "5", specialCharacter: "+", info: "speakers", detail: " de primera linea en Android y Web"}
- - {count: "1", specialCharacter: "", info: "hackaton", detail: "demuestra tu conocimiento"}
+ - {count: "1", specialCharacter: "", info: "hackathon", detail: "demuestra tu conocimiento"}
 
 # Latest News Block
 latestNewsTitle: "Últimas noticias"
@@ -140,7 +140,7 @@ ticketsOffers:
   validFrom: "2014-08-25T10:00"
   validThrough: "2014-12-11T23:59"
  -
-  name: "Hackaton"
+  name: "Hackathon"
   price: "Gratis"
   priceCurrency: ""
   ticketsNumber: "20"
