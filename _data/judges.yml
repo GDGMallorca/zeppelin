@@ -32,3 +32,13 @@
     - {name: "google-plus", link: "https://plus.google.com/113451672881332358349/posts"}
     - {name: "twitter", link: "https://twitter.com/sekongur"}
     - {name: "site", link: "http://www.walknplaygames.com/"}
+- 
+  id: 3
+  name: "Antonio"
+  surname: "De la Torre"
+  company: "Mutant Games"
+  title: "Game Developer"
+  thumbnailUrl: sasori.png
+  social: 
+    - {name: "twitter", link: "https://twitter.com/SasoriOlkof"}
+    - {name: "site", link: "http://t.co/2v5ZyBKedb"}
