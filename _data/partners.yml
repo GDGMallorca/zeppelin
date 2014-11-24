@@ -7,6 +7,7 @@
   elements: 
     - {name: "ParcBit", description: "Parc Balear d'innovació tecnològica", link: "http://www.parcbit.es", imageUrl: "parcbit.jpg"}
     - {name: "Remotte", description: "Remotte", link: "http://remotte.com/", imageUrl: "remotte.svg"}
+    - {name: "ACoPuO", description: "Agencia de Comunicación y Publicidad On-line", link: "http://acopuo.com/", imageUrl: "acopuo.svg"}
 #    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg", width: "120px"}
 #    - {name: "GDG[x]", description: "GDG[x] - Yeah, we can fix that", link: "https://github.com/gdg-x", imageUrl: "gdg-x.svg", width: "120px"}
 #- 
