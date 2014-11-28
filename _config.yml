@@ -238,7 +238,7 @@ aboutHackathonTitle: "Conoce los temas"
 hackathonRows:
  - {title: "Google Cardboard", image: "hackathon-0.png", details: "Los participantes podrán probar la API de Google Cardboard y crear su propio entorno de realidad virtual"}
  - {title: "Remotte", image: "hackathon-1.png", details: "Qué mejor forma de controlar un entorno virtual con el mando Remotte"}
- - {title: "Bases", details: "Podéis conocer las bases desde <a href='http://devfest.gdgmallorca.com/blog/bases-hackathon/'>este enlace</a>"}
+ - {title: "Bases", image: "organizer-logo.png", details: "Podéis conocer las bases desde <a href='http://devfest.gdgmallorca.com/blog/bases-hackathon/'>este enlace</a>"}
 
 # Hackathon Judges Block
 judgesImage: "judges.jpg"
