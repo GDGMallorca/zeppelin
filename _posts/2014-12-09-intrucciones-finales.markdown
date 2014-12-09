@@ -6,6 +6,7 @@ isStaticPost: false
 ---
 
 Esta semana es el evento, y ya toca ir ultimando los detalles. Para empezar, os dejamos el enlace para bajaros la app del evento con todas las charlas, un mapa, y acceso a los hashtags de Google+ del evento.
+
 [Descarga de Google Play](https://play.google.com/store/apps/details?id=com.devfest.mallorca)
 
 **La primera charla empieza a las 17:00 y tenemos que cumplir un horario, así que abriremos las puertas a las 16:30 para que podáis ir cogiendo sitio.**
@@ -17,8 +18,11 @@ Para todos los que teníais dudas, estar apuntados a esta lista de correo es suf
 **Mapa**
 
 La dirección del evento es en el ParcBit, Centro Empresarial Son Espanyol, calle laura bassi
+
 [Mapa del ParcBit](http://www.parcbit.es/wparcbitfront/images/pdf/planoParque.pdf)
+
 en el plano, número 12
+
 Dentro del Centro Empresarial tenemos la **sala Auditorium**, en el piso de abajo.
 
 **Cómo llegar**
