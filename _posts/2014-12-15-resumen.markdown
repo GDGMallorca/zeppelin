@@ -10,27 +10,25 @@ El DevFest ha terminado, estamos muy contentos con el resultado y una cosa ha qu
 Los números del evento son estos:
 
 * Más de 120 desarrolladores
-<img src="../../img/posts/asistentes.jpg" alt="Asistentes" style="width: 300px;"/>
-
-![Asistentes](../../img/posts/asistentes.jpg =300x)
+<img src="../../img/posts/asistentes.jpg" style="width: 500px;"/>
 
 * Dos días de evento
-![Rollup](../../img/posts/rollup.jpg =300x)
+<img src="../../img/posts/rollup.jpg" style="width: 500px;"/>
 
 * Cuatro charlas muy interesantes sobre Desarrollo Web, Android y SEO
-![Charla](../../img/posts/charla.jpg =300x)
+<img src="../../img/posts/charla.jpg" style="width: 500px;"/>
 
 * Cinco ponentes Top del panorama nacional.
-![Speaker](../../img/posts/speaker.jpg =300x)
+<img src="../../img/posts/speaker.jpg" style="width: 500px;"/>
 
 * Una hackathon con 10 participantes brillantes
-![Cardboard](../../img/posts/cardboard.gif =300x)
+<img src="../../img/posts/cardboard.gif" style="width: 500px;"/>
 
 * Un streaming que se ha visto incluso desde Londres
-![Juanjo ACoPuO](../../img/posts/juanjo.jpg =300x)
+<img src="../../img/posts/juanjo.jpg" style="width: 500px;"/>
 
 * Y el primer selfie en una charla de Polymer en España
-![Selfie](../../img/posts/selfie.jpg =300x)
+<img src="../../img/posts/selfie.jpg" style="width: 500px;"/>
 
 A continuación podéis consultar las charlas que escuchamos.
 
