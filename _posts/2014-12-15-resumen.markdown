@@ -10,30 +10,34 @@ El DevFest ha terminado, estamos muy contentos con el resultado y una cosa ha qu
 Los números del evento son estos:
 
 * Más de 120 desarrolladores
-![Asistentes](./img/posts/asistentes.jpg)
+![Asistentes](../../img/posts/asistentes.jpg)
 
 * Dos días de evento
-![Rollup](./img/posts/rollup.jpg)
+![Rollup](../../img/posts/rollup.jpg)
 
 * Cuatro charlas muy interesantes sobre Desarrollo Web, Android y SEO
-![Charla](./img/posts/charla.jpg)
+![Charla](../../img/posts/charla.jpg)
 
 * Cinco ponentes Top del panorama nacional.
-![Speaker](./img/posts/speaker.jpg)
+![Speaker](../../img/posts/speaker.jpg)
 
 * Una hackathon con 10 participantes brillantes
-![Cardboard](./img/posts/cardboard.gif)
+![Cardboard](../../img/posts/cardboard.gif)
 
 * Un streaming que se ha visto incluso desde Londres
-![Juanjo ACoPuO](./img/posts/juanjo.jpg)
+![Juanjo ACoPuO](../../img/posts/juanjo.jpg)
 
 * Y el primer selfie en una charla de Polymer en España
-![Selfie](./img/posts/selfie.jpg)
+![Selfie](../../img/posts/selfie.jpg)
 
 A continuación podéis consultar las charlas que escuchamos.
+
 * [Evolución Android](http://es.slideshare.net/RubnSerranoNez/evolucin-android-droidconmad-2014)
+
 * [Web components y Polymer revolucionan el desarrollo web](https://docs.google.com/presentation/d/1ehemQ3hrkeW5qcbEsygPjya51ew-BcGpzaYmKhBiUYU/edit#slide=id.g3a2c73c49_00) basada en [itshackademic.com](http://itshackademic.com) y la [Demo](https://github.com/MallorcaJS/dev-fest-polymer)
+
 * [SEO para Portales Web](https://drive.google.com/file/d/0B4zNIQm_wDuWanlaaFdabTcyTVU/view?usp=sharing)
+
 * [Material Design Basics](http://www.slideshare.net/flipper83/material-design-basics)
 
 Por supuesto esto es sólo el principio, esperamos veros a todos en los siguientes eventos que organicemos!
