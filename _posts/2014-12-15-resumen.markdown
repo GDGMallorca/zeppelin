@@ -10,6 +10,8 @@ El DevFest ha terminado, estamos muy contentos con el resultado y una cosa ha qu
 Los números del evento son estos:
 
 * Más de 120 desarrolladores
+<img src="../../img/posts/asistentes.jpg" alt="Asistentes" style="width: 300px;"/>
+
 ![Asistentes](../../img/posts/asistentes.jpg =300x)
 
 * Dos días de evento
